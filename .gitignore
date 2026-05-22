@@ -1,5 +1,6 @@
 # Never commit secrets
 .env
+.DS_Store
 
 # Python
 venv/
