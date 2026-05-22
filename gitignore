@@ -1,0 +1,11 @@
+# Never commit secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated index and uploaded docs
+storage/
+docs/
