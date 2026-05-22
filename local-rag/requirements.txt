@@ -1,0 +1,9 @@
+llama-index-core
+llama-index-llms-azure-openai
+llama-index-embeddings-huggingface
+llama-index-readers-file
+pypdf
+docx2txt
+openpyxl
+pandas
+python-dotenv
