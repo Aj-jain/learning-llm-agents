@@ -1,0 +1,5 @@
+Pending QA tasks:
+- Review login regression suite (45 cases)
+- Verify cart checkout on Safari iOS
+- File bug for the timeout on /api/orders
+Estimated total hours: 12
