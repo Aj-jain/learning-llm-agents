@@ -1,0 +1,27 @@
+[
+  {
+    "source_url": "https://www.digitalocean.com/resources/articles/ai-testing-tools",
+    "key_points": "AI agents are being used to expand test coverage and generate automated tests, especially targeting edge cases or scenarios human QA engineers might miss. Tools leverage natural language prompts to create and adapt entire test suites, significantly reducing manual effort.",
+    "saved_at": "2026-05-28T13:03:15.568Z"
+  },
+  {
+    "source_url": "https://www.digitalocean.com/resources/articles/ai-testing-tools",
+    "key_points": "AI agents are used for test maintenance and stability, specifically by self-healing and updating tests when an application's UI or workflow changes, reducing the occurrence of flaky tests and improving efficiency.",
+    "saved_at": "2026-05-28T13:03:17.645Z"
+  },
+  {
+    "source_url": "https://www.virtuosoqa.com/post/best-ai-testing-tools",
+    "key_points": "AI agents use computer vision to validate UI changes and visual regression testing across many screen combinations, enabling much faster and more robust detection of visual defects compared to manual or script-based approaches.",
+    "saved_at": "2026-05-28T13:03:19.594Z"
+  },
+  {
+    "source_url": "https://www.virtuosoqa.com/post/best-ai-testing-tools",
+    "key_points": "AI agents leverage machine learning and predictive analytics to forecast defect-prone areas in the code, helping teams prioritize which parts of software need more rigorous testing and optimizing overall test coverage.",
+    "saved_at": "2026-05-28T13:03:21.526Z"
+  },
+  {
+    "source_url": "https://www.virtuosoqa.com/post/best-ai-testing-tools",
+    "key_points": "AI agents employ natural language processing (NLP) to automatically generate executable test cases from plain English requirements, significantly accelerating test creation and making QA more accessible to non-technical stakeholders.",
+    "saved_at": "2026-05-28T13:03:23.563Z"
+  }
+]
